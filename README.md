@@ -28,6 +28,6 @@ into some of the older threads.
 
 If you'd like to create your own AMA repository:
 
-- Click `Fork` at the top of [holman/ama]
+- Click `Fork` at the top of [holman/ama](https://github.com/holman/ama)
 - Edit the README (make sure to change the name and links and all that)
 - Enable issues on your repository (they're in your fork's Settings page).
